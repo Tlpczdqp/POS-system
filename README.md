@@ -15,7 +15,7 @@
 7. Run the program. If prompt which main to start, select the option with LoginForm
 
 ## Database driver setup
-1. Extract the [text](requirements/mysql-connector-j-9.7.0.zip)
+1. Extract mysql-connector-j-9.7.0.zip
 2. Right click the project and select Properties ![select properties](<requirements/images/Screenshot (3586).png>)
 3. Select "Libraries" Then select the plus icon (+) inline with Classpath ![plus icon](<requirements/images/Screenshot (3588).png>)
 4. Then click "Add jar/folder" ![add jar/folder](<requirements/images/Screenshot (3590).png>)
