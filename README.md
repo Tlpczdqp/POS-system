@@ -28,4 +28,6 @@
 Username: admin <br>
 Password: admin123
 
+### Note:
+You need to provide your own product item pictures
 
